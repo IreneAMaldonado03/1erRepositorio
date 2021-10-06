@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void)
-
+//Un comentario para la clase//
 {
     int Pixeles_Ancho, Pixeles_Alto;
     float Porcentaje_X, Porcentaje_Y;
